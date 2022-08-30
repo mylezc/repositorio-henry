@@ -1,0 +1,5 @@
+Variables: Guardado de informacion. Guardo algo en un lugar para recuperarlo despues.
+Strings: texto. siempre estre comillas
+Funciones (argumentos, return): agrupa codigos para usarlos posteriormente
+Declaraciones if: condicionante
+Valores booleanos (true, false): un tipo de dato para determinar si algo es true o false 
